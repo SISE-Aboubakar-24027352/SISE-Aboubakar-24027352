@@ -1,4 +1,5 @@
-## Bonjour, Je suis Aboubakar SISE
+# SISE Aboubakar
+## Étudiant en BUT Informatique d'Aix-Marseille
 
 <!--
 **SISE-Aboubakar-24027352/SISE-Aboubakar-24027352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
